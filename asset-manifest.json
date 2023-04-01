@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bookyourshow-task/static/css/main.671db662.css",
+    "main.js": "/bookyourshow-task/static/js/main.a4d61898.js",
+    "index.html": "/bookyourshow-task/index.html",
+    "main.671db662.css.map": "/bookyourshow-task/static/css/main.671db662.css.map",
+    "main.a4d61898.js.map": "/bookyourshow-task/static/js/main.a4d61898.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.671db662.css",
+    "static/js/main.a4d61898.js"
+  ]
+}
