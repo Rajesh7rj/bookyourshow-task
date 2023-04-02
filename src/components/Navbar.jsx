@@ -6,9 +6,9 @@ export default function Home() {
     <div id="nav-section">
       <header className="">
         <nav className="navbar navbar-expand-lg bg-dark  ">
-          <div className="container-fluid d-flex px-5">
+          <div className="container-fluid d-flex px-3 ">
             <Link to="/" className="navbar-brand text-white" href="/">
-              <h3>BookYourShow</h3>
+              <h3 className="">BookYourShow</h3>
             </Link>
             <button
               className="navbar-toggler bg-white text-bg-secondary"
@@ -22,7 +22,7 @@ export default function Home() {
               <span className="navbar-toggler-icon "></span>
             </button>
             <div className="collapse navbar-collapse " id="navbarNavAltMarkup">
-              <div className="d-lg-flex  ms-5 ">
+              <div className="d-lg-flex colTop  ">
                 <Link to="/" className="nav-link fs-5 mx-3 active text-white text-center" aria-current="page" href="/">
                   Home
                 </Link>

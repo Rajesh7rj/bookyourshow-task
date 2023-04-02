@@ -17,10 +17,10 @@ export default function Home() {
   console.log(shows);
 
   return (
-    <div id="home-section" className="p-5 ">
+    <div id="home-section" className="p-2 ">
       <div className="card-box  ">
         {shows.map(({ show }, index) => (
-          <div key={index} className="card  m-3" style={{ width: "20rem",  border: "2px solid black", backgroundColor:""}}>
+          <div key={index} className="card  m-3 " style={{ width: "20rem",  border: "2px solid black", backgroundColor:""}}>
             <img
               src={
                 show?.image?.original ??

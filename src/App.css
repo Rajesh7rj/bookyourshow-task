@@ -98,7 +98,12 @@ a:link{
   color: white;
 }
 
+
 @media (max-width: 1024px) {
+  .colTop{
+    margin-top: 1.5rem;
+   border-top: 2px solid whitesmoke;
+  }
   .details{
     width: 92%;
   }
@@ -110,6 +115,9 @@ a:link{
   }
   .lang, .gen, .rating{
     margin: 2px;
+  }
+ .nav-link{
+    margin: 1.5rem;
   }
 }
 
@@ -189,5 +197,13 @@ margin-bottom: 1rem;
   }
   .summaryInfo{
     font-size: 1rem;
+  }
+  .card{
+    
+    margin: 1rem 0 !important;
+  
+  }
+  #booking-section{
+    padding: 1rem 1rem !important;
   }
 }
