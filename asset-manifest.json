@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/bookyourshow-task/static/css/main.671db662.css",
-    "main.js": "/bookyourshow-task/static/js/main.a4d61898.js",
+    "main.css": "/bookyourshow-task/static/css/main.071ffb94.css",
+    "main.js": "/bookyourshow-task/static/js/main.d8166527.js",
     "index.html": "/bookyourshow-task/index.html",
-    "main.671db662.css.map": "/bookyourshow-task/static/css/main.671db662.css.map",
-    "main.a4d61898.js.map": "/bookyourshow-task/static/js/main.a4d61898.js.map"
+    "main.071ffb94.css.map": "/bookyourshow-task/static/css/main.071ffb94.css.map",
+    "main.d8166527.js.map": "/bookyourshow-task/static/js/main.d8166527.js.map"
   },
   "entrypoints": [
-    "static/css/main.671db662.css",
-    "static/js/main.a4d61898.js"
+    "static/css/main.071ffb94.css",
+    "static/js/main.d8166527.js"
   ]
 }
